@@ -1,0 +1,76 @@
+/*
+Lab03Test.text
+Jacob Branson
+COSC 1030, Section 01
+Lab 03
+3 Feb 2022
+
+this is the output of Lab03
+*/
+FOR Lab03_class.cpp
+
+Enter month as integer 1-12:  3
+Enter day as integer 1-31:  21
+Enter year as integer:  2002
+
+Printing the date:
+3/21/2002
+
+Birthday:
+Enter month as integer 1-12:  5
+Enter day as integer 1-31:  19
+Enter year as integer:  1993
+
+Mesure date:
+Enter month as integer 1-12:  10
+Enter day as integer 1-31:  6
+Enter year as integer:  1962
+
+
+Joe was born in 1993
+Here's Joe:
+Height is 72
+Weight is 180
+Last measured on 10/6/1962
+Birthday is 5/19/1993
+
+Joe was last measured in 1962
+
+
+
+
+FOR Lab03_struct.cpp
+
+
+Enter month as integer 1-12:  3
+Enter day as integer 1-31:  21
+Enter year as integer:  2002
+
+
+Printing the dates:
+10/6/2000
+3/21/2002
+
+Birthday:
+Enter month as integer 1-12:  5
+Enter day as integer 1-31:  10
+Enter year as integer:  1991
+
+Measure date:
+Enter month as integer 1-12:  10
+Enter day as integer 1-31:  6
+Enter year as integer:  1962
+
+
+Joe was born in 1991
+Height is 72
+Weight is 180
+Last measured on 10/6/1962
+Birthday is 5/10/1991
+
+And here is Fred.
+Height is 74
+Weight is 200
+Last measured on 6/21/2007
+Birthday is 11/27/1968
+

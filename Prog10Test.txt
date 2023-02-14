@@ -1,0 +1,24 @@
+// Prog10Test.txt
+// Prog10.cpp
+// Jacob Branson
+// COSC 1030 
+// Program 10
+//1 Apr. 2022
+
+
+
+(1) Testing `cout << A': empty
+(2) Testing `cin >> A':
+Enter the polynomial (integer order then double coefficients):
+         3 -1 2.09 -5.3 -0.98
+
+(3) Second look at A: -1x^(3) +2.09x^(2) -5.3x^(1) -0.98
+(4) Testing `Polynomial B(A)': -1x^(3) +2.09x^(2) -5.3x^(1) -0.98
+(5) Testing `Polynomial C(2, clist)': +1x^(2) +4.5x^(1) +8
+(6) Testing D = C): +1x^(2) +4.5x^(1) +8
+(7) Testing A == B : TRUE
+(8) Testing A == D : FALSE
+(9) Testing E == C : TRUE
+(10) Testing E get degree function : 2
+(11) Testing E [get degree] : 1
+(12) Testing changing of coeffs of E to 2.91 : +1x^(2) +4.5x^(1) +2.91

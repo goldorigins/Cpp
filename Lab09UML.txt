@@ -1,0 +1,22 @@
+// Lab09UML.cpp
+// Jacob Branson
+// COSC 1030
+// Lab 09
+//23 Mar. 2022
+//
+Date
+------------------------
+-int day1
+-int month1
+-int year1
+------------------------
++<<constructor>>Date(day:int=0, month:int=0, year:int=0)
++setdate(day:int,month:int,year:int) : void
++setday(day:int) : void
++setmonth(month:int) : void
++setyear(year:int) : void
++getday() : int
++getmonth() : int
++getyear() : int
++printmil() : void
++printus() : void

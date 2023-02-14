@@ -1,0 +1,14 @@
+// Lab07Pcode.txt
+// Jacob Branson
+// COSC1030
+// Lecture 10
+// Mar. 3 2022
+//
+
+1) declare your includes like fstream and iostream
+2) create a filename var that takes chars
+3)have user input bring in first file name
+4)check to see if file exists
+5) if the file exists then get the other file name
+6) use while loop to get lines in the first file and put them in the second file
+7)close the files

@@ -1,0 +1,48 @@
+// Lab07Test.text
+// Jacob Branson
+// COSC1030
+// Lecture 10
+// Mar. 3 2022
+//
+
+Enter file to be copied : words
+Sorry, words could not be found.
+Enter file to be copied : words.txt
+Enter file to copy to : coppies.txt
+reading file...
+copying file ...
+file copy complete...
+
+
+words.txt::
+
+yo yo
+aslfjdsdfl; n
+sdf sadf
+ asdkf
+sdf
+sd
+f s
+df 
+sdf
+s
+df
+sdf
+sad fsdfsdf
+
+
+coppies.txt::
+
+yo yo
+aslfjdsdfl; n
+sdf sadf
+ asdkf
+sdf
+sd
+f s
+df 
+sdf
+s
+df
+sdf
+sad fsdfsdf

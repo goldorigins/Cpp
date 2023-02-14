@@ -1,0 +1,32 @@
+/*
+Prog05Pcode.text
+Jacob Branson
+COSC 1030, Section 01
+Prog 05 pcode
+15 Feb 2022
+
+*/
+1) prototype 3 functions one to get a non neg int, another to 
+do a calculation with the int, the last to print the results of the calculation
+
+2) put in barebones functions with some output and call them in main
+
+3) in the input get function add a header. Then add a do while loop to prompt
+for a non negative integer. return this input
+
+4) bring the input into the calculation function from main. 
+
+5) I see it in my mind as calculationg the numeratior which is going to 
+oscilate +- and teh denomenator which will change with values of k
+-create a for loop that says: start at 0 and run up to and including 
+the input. the first runthrough will use 0 so its k++ not ++k
+-inside the loop add a numerator calculation that is going to be 
+the previous value times -1. Start with -1 so the first runthrough 
+produces a pos 1
+-calculate the denomenator using the current itteration of the loop
+- divide the numer by denom and add this to a running counter that will
+add the current itteration to a sum of all previous runs. 
+-once this is done multiply this by 4 and return it to main
+
+6) send the calculation to an output function also find out a way to make 10 digits
+to the right of the decimal.

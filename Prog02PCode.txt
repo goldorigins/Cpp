@@ -1,0 +1,17 @@
+/*
+Prog02Pcode.text
+Jacob Branson
+COSC 1030, Section 01
+Prog 02
+27 Jan 2022
+
+this is the pcode for Prog02
+*/
+1)make a while loop to run prog all the time
+2)get the 2 variables as integer input
+3)use if statement to check the order is correct
+4)use elif statement to check for the order the other way
+5) use else to run the thing if the input is equal
+6)make while loop for each if statement that says while the smaller num is less than the big num do the calculation
+7)keep a running sum in the while loop also add one to the smaller number for the while loop
+8)print the results

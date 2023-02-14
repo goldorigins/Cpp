@@ -1,0 +1,27 @@
+/*
+Prog04Pcode.text
+Jacob Branson
+COSC 1030, Section 01
+Prog 04 pcode
+11 Feb 2022
+
+*/
+
+1)prototype all the functions with the specified names
+2)make myPrompt and have it output something then call it in the main
+3)make mySum, myFact, and myMod and have them output something in main
+4)make a do while loop in myPrompt to ask for a non-neg number
+return this input and call it in the main as user input
+5)create myPrint, in here put an if else loop to try the 3 conditions
+fill each condition with the coresponding output sum,mod,fact 
+6)call my print in main and push user input through it to 
+make sure the if function is correctly pointing to what will be 
+the output lines.
+7)fill the calculations functions with the logical stuff
+8)in main use the same if else loop as in Print but call each function
+inside its logical trigger. Set a each fun return to the same var name
+9)change the stuff in myPrint to the desired text output and push the 
+logically determined result from the main into myPrint
+10)put a while loop around stuff in main to make it go again and check for sentinel
+EDIT: I ended up using for loop in main so that if first entry was sentinel it would kill
+insted of running atleast once.

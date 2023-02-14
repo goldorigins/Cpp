@@ -1,0 +1,22 @@
+// Prog09Test.text
+// COSC 1030
+// Jacob Branson
+// Program 9
+// 25 Mar. 2022
+
+The x data set:
+0    1    2    4    5    8    9
+the y data set:
+-2.5    3    4.5    7    9.5    10    12.5
+The linear least square parameters are as follows:
+  m = 1.37903
+  b = 0.572581
+
+
+The x data set:
+23    1    2    4    5    8    9
+the y data set:
+-2.5    44    4.5    7    9.5    10    12.5
+The linear least square parameters are as follows:
+  m = -1.10253
+  b = 20.333

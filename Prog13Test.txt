@@ -1,0 +1,21 @@
+// Prog13Test.text
+// Jacob Branson
+// COSC1030
+// Program 13
+// 22 Apr. 2022
+
+A is (0,0,0)
+
+X+Y+Z is (1,1,1)
+
+B is (3,4,5)
+||B|| is 7.07107
+B dot Y is 4
+
+C is (1,1,1)
+B cross C is (-1,2,-1)
+B dot (B cross C) is 0
+
+Enter your vector coefficients as x y z:  2.3 4.5 -9
+D is (2.3,4.5,-9) with magnitude 10.3218
+Normalized D is |(0.222829,0.43597,-0.871939)| = 1

@@ -1,0 +1,27 @@
+// Prog06Test.text
+// Jacob Branson    
+// COSC 1030
+// program 6
+// 2-25-21
+
+Enter the inner wall radii(>=0):
+-56
+Enter the inner wall radii(>=0):
+-5
+Enter the inner wall radii(>=0):
+8
+Enter outer wall radii(>=0):
+-4
+Enter outer wall radii(>=0):
+-5
+Enter outer wall radii(>=0):
+9
+Enter height(>=0):
+-5
+Enter height(>=0):
+-6
+Enter height(>=0):
+6
+
+A hollow cylinder with radial dimensions of 8 and 9 and height 6
+has volume of 320.442 square cm.

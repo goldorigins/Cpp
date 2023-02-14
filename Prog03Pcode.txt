@@ -1,0 +1,28 @@
+/*
+Prog03Pcode.text
+Jacob Branson
+COSC 1030, Section 01
+Prog 03
+4 Feb 2022
+
+*/
+a)
+1) have a for loop bring in the 2 variables and test them to be positive
+2) have another for loop that will use I to iterate over the distance between the 2 variables
+3) this can be done by having i=1 then i++ for each repeat untill i=user input
+4)have a variable count from 1 to i since i will be equal to the input at the end of the loop
+this variable will acumulate the sum of the integers
+
+b)
+1) bring in a pair of integers
+2) add one to the first integer and set the condition on the while 
+loop to run as long as the first is smaller than the second
+3) every time to loop runs there should be  a counter to simply count as many times the loop has ran
+this will be the space between the inputs
+
+c)
+1)have a loop on the outside to check for positive exponey input
+2) since n^3= n*n*n we can just take the first input and multiply it by itsself as many times as the loop
+3) so so for every run of the loop there should be an acumulator that multiplies an acumulated value
+by the first value
+4) the while loop will repeat this process by having a count that goes untill it is less than or equal to the exponet

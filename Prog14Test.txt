@@ -1,0 +1,36 @@
+// Prog14Test.txt
+// Jacob Branson
+// COSC 1030
+// Program 14
+// 29 Apr. 2022
+
+Ints.data:::
+
+Please enter the name of a file containing integers.
+We'll return the number of integers, mean and median.
+Ints.data
+********** Data Summary **********
+Number of Values:       16
+Mean Value:             33
+Median Value:           17
+**********************************
+
+Prog14Test1.txt:::
+
+Please enter the name of a file containing integers.
+We'll return the number of integers, mean and median.
+Prog14Test1.txt
+********** Data Summary **********
+Number of Values:       16
+Mean Value:             57
+Median Value:           57
+**********************************
+
+Please enter the name of a file containing integers.
+We'll return the number of integers, mean and median.
+Prog14Test2.txt
+********** Data Summary **********
+Number of Values:       100
+Mean Value:             50
+Median Value:           50
+**********************************

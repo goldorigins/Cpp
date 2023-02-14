@@ -1,0 +1,17 @@
+// Lab11Test.cpp
+// Jacob Branson
+// COSC 1030
+// Lab 11
+// 7 Apr. 2022
+
+
+Please enter a string
+guccibelt
+Echoing that string: guccibelt
+Please enter a sentence (less than 256 characters):
+I can wear a gucci belt to school work and home!
+You entered 48 characters. And 49 were removed from the stream.
+Please give me an integer between 0 and 48 :
+15
+ The sentence is now: I can wear a gu
+ The original is now: I can wear a gucci belt to school work and home!

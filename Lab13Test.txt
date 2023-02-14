@@ -1,0 +1,16 @@
+// Lab13Test.txt
+// Jacob Branson
+// COSC 1030
+// Lab 13
+//20 Apr. 2022
+
+Q1) VBase is an abstract class because it contains the pure virtual function makeAbs() const = 0.
+
+Q2) No, the program wont compile because stuff is private:
+	error C2248: 'VBase::stuff': cannot access private member declared in class 'VBase'
+
+Q3) To fix this we will need to make the stuff variable protected.
+
+Q4) To make these changes I had to declare setStuff() in VDerived and give it a definition. This 
+definition set weight as 2* stuff. Then I had to define setStuff() in VDerived and just had it return the product
+of the two vars. Then in main we had to call setStuff and give it a value to take in.

@@ -1,0 +1,25 @@
+/*
+Prog05Test.text
+Jacob Branson
+COSC 1030, Section 01
+Prog 05 test output
+15 Feb 2022
+
+*/
+
+This program estimates the value of PI based on the Madhava-Leibniz series.
+
+###########################################################################
+
+Enter max value of k in truncated series (non-neg. int): 500000
+Approximation of pi is: 3.141594653585692
+
+
+This program estimates the value of PI based on the Madhava-Leibniz series.
+
+###########################################################################
+
+Enter max value of k in truncated series (non-neg. int): -9
+Enter max value of k in truncated series (non-neg. int): -66666
+Enter max value of k in truncated series (non-neg. int): 50
+Approximation of pi is: 3.161198612987051

@@ -1,0 +1,11 @@
+// Prog06.cpp
+// Jacob Branson    
+// COSC 1030
+// program 6
+// 2-25-21
+
+1)change #include to new file name
+2)separate the inputs into 3 do while loops to test for pos #
+3)add another variable to ringArea
+4) multiply the ring arrea by the height
+5) add output to main

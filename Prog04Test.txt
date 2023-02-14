@@ -1,0 +1,31 @@
+/*
+Prog04Test.test
+Jacob Branson
+COSC 1030, Section 01
+Prog 04 test
+11 Feb 2022
+
+*/
+
+Enter a non-neg integer (-9999 to end):
+-5
+Enter a non-neg integer (-9999 to end):
+0
+The product from 1 to 0 is 1
+Enter a non-neg integer (-9999 to end):
+9
+The product from 1 to 9 is 362880
+Enter a non-neg integer (-9999 to end):
+10
+The sum of integers from 1 to 10 is 55
+Enter a non-neg integer (-9999 to end):
+45
+The sum of integers from 1 to 45 is 1035
+Enter a non-neg integer (-9999 to end):
+46
+The remainder of 46 / 13 is 7
+Enter a non-neg integer (-9999 to end):
+100
+The remainder of 100 / 13 is 9
+Enter a non-neg integer (-9999 to end):
+-9999

@@ -1,0 +1,20 @@
+/*
+Prog01Test.txt
+Jacob Branson
+COSC 1030, Section 01 
+Prog 01
+21 Jan 2022
+
+This is the output of Prog01.cpp'
+*/
+
+Enter the first integer value:
+51
+Enter the second integer value:
+65
+Enter the third integer value:
+12
+Enter the fourth integer value (-9999 to kill):
+56
+The sum of 51, 65, 12 and 56 is :184
+Enter the first integer value:

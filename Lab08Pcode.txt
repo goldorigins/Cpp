@@ -1,0 +1,27 @@
+// Lab08Pcode.txt
+// Jacob Branson    
+// COSC 1030
+// Lab 06 pcode
+// 9 Mar. 2022
+
+1) prototype 5 functions a prompt the 2 datainputs and the 2 compute charges
+once input takes 2 double and the other takes an int and 3 doubles these
+are call by ref vars, its the same for compute charges but call by val.
+
+2) make main, in main make the days, rate, meds, services, and total vars.
+
+3) make prompt with a char switch that directs the program based on input
+and selects the function based on what the arguments sent are
+
+4)add a default that kills program if they put in the wrong thing.
+
+5) make datainput call by ref for the inpaitent for arguments all vars will be used
+this is how the program will know what to chose. have do whiles around output prompts
+that take desired data in.
+
+6) make the outpaitent the same as inpaitent but only use meds and services data and args
+
+7) call compute charges at the end of each input fun
+
+8) the 2 compute charges just need to sum the data inputs from datainputs make 
+sure to have number of args that corresponds to the sum that is needed.

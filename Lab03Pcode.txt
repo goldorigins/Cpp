@@ -1,0 +1,21 @@
+/*
+Lab03Pcode.text
+Jacob Branson
+COSC 1030, Section 01
+Lab 03
+3 Feb 2022
+
+this is the pcode for Lab03
+*/
+for lab03_class
+1) create measure variable in Person
+2)fill measure variable with a date in the main function
+3) add the "joe was last measured" year line to the end of all the text
+4) add "last measured on" line to the Person show function
+
+for lab03struct.cpp
+1)add new parameter to structure Person for a measure date
+2)add line to make another date taker appear
+3) label the date takers as Birthday and Measure date
+4)add line in Person function to output the measure date
+5) hard code in Freds measure date

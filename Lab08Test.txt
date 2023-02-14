@@ -1,0 +1,35 @@
+// Lab08Test.txt
+// Jacob Branson    
+// COSC 1030
+// Lab 06 test
+// 9 Mar. 2022
+
+
+Charge computation for Inpatient(I) or Outpatient(O):
+p
+Please enter O for outpaitent or I for inpaitent!
+Program needs re-ran...
+##################################
+Charge computation for Inpatient(I) or Outpatient(O):
+I
+Charge computation for inpaitent:
+Number days:
+34
+Daily rate:
+32.2
+Medicine charges:
+324.2
+Service charges:
+4543.21
+Total charges: $5962.21
+##################################
+Charge computation for Inpatient(I) or Outpatient(O):
+o
+Charge computation for outpaitent:
+Medicine charges:
+-23
+Medicine charges:
+231.123
+Service charges:
+312.22
+Total charges: $543.343

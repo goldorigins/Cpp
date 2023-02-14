@@ -1,0 +1,15 @@
+/*
+Prog01Pcode.txt
+Jacob Branson
+COSC 1030, Section 01 
+Prog 01
+21 Jan 2022
+
+This is the psuedo code of Prog01.cpp'
+*/
+1) make a loop so they can do it however many times make sentinel -9999
+
+2) get the user input for the 4 variables user_in1 user_in2 user_in3 user_in4
+
+3)write an output that says something to yhe effect of "your anser is" and then
+ sums the variables and displays them  

@@ -1,0 +1,30 @@
+// Lab14Test.txt
+// Jacob Branson
+// COSC1030
+// Lab 14
+// test stuff 
+
+Enter nurse's name: Josephina Wilhemina Frankenheimerstein III
+Enter patient's name: : Poor Unfortunate Soule
+Enter pulse rate: 72
+Enter systolic BP: 124
+Enter diastolic BP: 80
+****************************************
+*  Patient:  Josephina Wilhemina Frankenheimerstein III
+*  Nurse:    : Poor Unfortunate Soule
+*  Pulse:    72
+*  BP:       124/80
+****************************************
+
+
+Enter nurse's name: jsdfhglkj lksadjhf asdklfjh k asdkl
+Enter patient's name: askdfjh klajsdhf akkasfdh
+Enter pulse rate: 234
+Enter systolic BP: 65464
+Enter diastolic BP: 234
+****************************************
+*  Patient:  jsdfhglkj lksadjhf asdklfjh k asdkl
+*  Nurse:    askdfjh klajsdhf akkasfdh
+*  Pulse:    234
+*  BP:       65464/234
+****************************************
