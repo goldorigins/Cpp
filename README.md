@@ -1,2 +1,2 @@
 # Cpp
-This is c++ code that serves verius purposes
+This is c++ code that serves various purposes
