@@ -52,7 +52,7 @@ FishBowl::FishBowl(int num) {
 }
 
 FishBowl::~FishBowl() {
-    cout << "Emptied FB:" << myFish << endl;
+    cout << "Emptied FB000:" << myFish << endl;
 }
 
 int FishBowl::addFish(int num) {
